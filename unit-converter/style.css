@@ -1,0 +1,71 @@
+body {
+  background-color: #1f2937;
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.header {
+  background-color: #6943fe;
+  padding: 40px 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-top: 0;
+}
+.header h1 {
+  color: white;
+  margin: 0 0 20px 0;
+  font-size: 24px;
+}
+
+.input-section {
+  margin-bottom: 20px;
+}
+
+input {
+  padding: 12px;
+  border: 2px solid white;
+  border-radius: 5px;
+  width: 50%;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+#convert-btn {
+  color: #273549;
+  padding: 0; /* Remove padding */
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  display: inline-block;
+  width: 90px;
+  height: 40px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.result-card {
+  background-color: #273549;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 10px 0;
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+h2 {
+  color: #ccc1ff;
+}
+
+p {
+  color: lightgray;
+}

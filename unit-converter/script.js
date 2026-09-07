@@ -1,8 +1,3 @@
-/*
-
-
- */
-
 const inputValue = document.getElementById("input-value");
 const button = document.getElementById("convert-btn");
 const lengthResult = document.getElementById("length-result");
